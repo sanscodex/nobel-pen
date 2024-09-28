@@ -135,16 +135,6 @@ export const data = [
     notableWorks: "The Rats, The Weavers, The Assumption of Hannele",
   },
   {
-    id: "43523",
-    name: "Gerhart Hauptmann",
-    year: "1912",
-    imageUrl:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Wandbild%20Gerhart%20Hauptmann.jpg",
-    wiki: "https://en.wikipedia.org/wiki/Gerhart_Hauptmann",
-    countries: "German Empire",
-    notableWorks: "The Rats, The Weavers, The Assumption of Hannele",
-  },
-  {
     id: "7241",
     name: "Rabindranath Tagore",
     year: "1913",
@@ -806,7 +796,7 @@ export const data = [
     name: "Czesław Miłosz",
     year: "1980",
     imageUrl:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Czeslaw%20Milosz%203%20ap.tif",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Czeslaw_Milosz_3_ap.tif/lossy-page1-1280px-Czeslaw_Milosz_3_ap.tif.jpg",
     wiki: "https://en.wikipedia.org/wiki/Czes%C5%82aw_Mi%C5%82osz",
     countries: "Lithuania, Poland, United States of America",
     notableWorks:
@@ -1191,17 +1181,6 @@ export const data = [
     countries: "United States of America",
     notableWorks:
       "Blood on the Tracks, Blowin' in the Wind, Like a Rolling Stone, Highway 61 Revisited, Bringing It All Back Home, Blonde on Blonde, Subterranean Homesick Blues",
-  },
-  {
-    id: "272855",
-    name: "Kazuo Ishiguro",
-    year: "2017",
-    imageUrl:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Kazuo%20Ishiguro%20by%20Kubik.JPG",
-    wiki: "https://en.wikipedia.org/wiki/Kazuo_Ishiguro",
-    countries: "United Kingdom, Japan",
-    notableWorks:
-      "Never Let Me Go, When We Were Orphans, The Remains of the Day, An Artist of the Floating World, A Pale View of Hills, Klara and the Sun",
   },
   {
     id: "272855",
