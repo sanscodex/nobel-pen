@@ -1,14 +1,15 @@
 import { data } from "../helpers/data";
-import { useState } from "react";
 import Author from "./Author";
 
-const Authors = () => {
+const Authors = (props) => {
   console.log(data);
-
+  const filteredData = data.filter((item) =>
+    item.name.toLowerCase().includes(props.search.toLowerCase())
+  );
   return (
     <div className="authors-container flex flex-row flex-wrap justify-center items-center gap-16 m-8">
-      {data.map((authorItem) => (
-        <Author key={authorItem.id} authorItem={authorItem} />
+      {filteredData.map((authorItem, index) => (
+        <Author key={index} authorItem={authorItem} />
       ))}
     </div>
   );
