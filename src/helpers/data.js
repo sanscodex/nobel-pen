@@ -1,4 +1,4 @@
-[
+export const data = [
   {
     id: "42247",
     name: "Sully Prudhomme",
@@ -305,8 +305,7 @@
       "https://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Mann%201929.jpg",
     wiki: "https://en.wikipedia.org/wiki/Thomas_Mann",
     countries: "German Empire, Weimar Republic, Czechoslovakia, Nazi Germany",
-    notableWorks:
-      "Confessions of Felix Krull, The Holy Sinner, Lotte in Weimar: The Beloved Returns, Joseph and His Brothers, The Magic Mountain, Buddenbrooks, Anekdote, Royal Highness, Die Lösung der Judenfrage, The Wardrobe, The Clown, Gefallen, Gladius Dei, A Man and His Dog, Little Herr Friedemann, Doctor Faustus, Tonio Kröger, Death in Venice, Reflections of an Unpolitical Man, The German Republic, The Fight between Jappe and the Do Escobar, The Blood of the Walsungs, Listen, Germany!, Germany and the Germans, The Transposed Heads, Disillusionment, Fiorenza, Disorder and Early Sorrow, Tobias Mindernickel, Mario and the Magician, Luischen, Tristan, The Black Swan, That man is my brother, Railway Accident, The Problem of Freedom, The Child Prodigy, The Road to the Churchyard, The Will to Happiness, The Coming Victory of Democracy, The Tables of the Law",
+    notableWorks: "The Magic Mountain",
   },
   {
     id: "123469",
@@ -475,7 +474,7 @@
     wiki: "https://en.wikipedia.org/wiki/Bertrand_Russell",
     countries: "United Kingdom of Great Britain and Ireland, United Kingdom",
     notableWorks:
-      "A History of Western Philosophy, Principia Mathematica, Power: A New Social Analysis, Marriage and Morals, Introduction to Mathematical Philosophy, In Praise of Idleness and Other Essays, Human Knowledge: Its Scope and Limits, My Philosophical Development, The Principles of Mathematics, Wisdow of the West, The Autobiography of Bertrand Russell, Proposed Roads to Freedom, The Problems of Philosophy, Justice in war time, Human society in ethics and politics",
+      "A History of Western Philosophy, Principia Mathematica, Power: A New Social Analysis, Marriage and Morals, In Praise of Idleness and Other Essays",
   },
   {
     id: "93137",

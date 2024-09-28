@@ -1,3 +1,13 @@
+import Authors from "./components/Authors";
+import Header from "./components/Header";
+import Search from "./components/Search";
+
 export default function App() {
-  return <h1 className="text-3xl font-bold">NobelPen Project</h1>;
+  return (
+    <div>
+      <Header />
+      <Search />
+      <Authors />
+    </div>
+  );
 }
