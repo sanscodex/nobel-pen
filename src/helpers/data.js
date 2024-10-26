@@ -1258,4 +1258,14 @@ export const data = [
     notableWorks:
       "Morning and Evening, Wakefulness, Olav's Dreams, Weariness, I Am the Wind, Melancholy II, Dream of Autumn, Nightsongs, The Name, Melancholy",
   },
+  {
+    id: "202454172658",
+    name: "Han Kang",
+    year: "2024",
+    imageUrl:
+      "https://upload.wikimedia.org/wikipedia/commons/b/b6/Han_Kang_-_2017_%28cropped%29.png",
+    wiki: "https://en.wikipedia.org/wiki/Han_Kang",
+    countries: "South Korea",
+    notableWorks: "The Vegetarian, Human Acts",
+  },
 ];
